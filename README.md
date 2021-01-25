@@ -4,9 +4,14 @@
 **SquamataAssemblyAMT** is a Jupyter Binder Notebook used to review Airborne Magnetic Data. 
 To explore or operate this notebook, click on the link below:
 
-https://mybinder.org/v2/gh/slackmasterfelipecafe-net/SquamataScienceBaseBinderExample/blob/main/?filepath=SquamaterScienceBaseBinderExample.ipynb
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slackmasterfelipecafe-net/SquamataScienceBaseBinderExample/blob/main/?filepath=SquamaterScienceBaseBinderExample.ipynb)
+https://mybinder.org/v2/gh/slackmasterfelipecafe-net/SquamataScienceBaseBinderExample/main?filepath=SquamaterScienceBaseBinderExample.ipynb
+
+Copy to clipboard
+Copy the text below, then paste into your README to show a binder badge:
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slackmasterfelipecafe-net/SquamataScienceBaseBinderExample/main?filepath=SquamaterScienceBaseBinderExample.ipynb)
 
 *"Birthing the tail that feeds it..."* 
 
