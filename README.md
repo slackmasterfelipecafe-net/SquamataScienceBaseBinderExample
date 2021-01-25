@@ -1,7 +1,7 @@
 # SquamataScienceBaseBinderExample
 **Squamata** is the largest order of reptiles, comprising lizards, snakes and amphisbaenians (worm lizards), which are collectively known as squamates or scaled reptiles.
 
-**SquamataAssemblyAMT** is a Jupyter Binder Notebook used to review Airborne Magnetic Data. 
+**SquamataAssemblyAMT** is a Jupyter Binder Notebook used to review Airborne Magnetic Data on ScienceBase. 
 To explore or operate this notebook, click on the link below:
 
 
